@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Jhirz\\Desktop\\ELECTIVE PROJECT-ACTIVITY\\PF_Q3_BackEnd_E3_DELACRUZ_JEANROMUALD\\TodoApi\\TodoApi.csproj": {}
+    "C:\\Users\\Jhirz\\Desktop\\ELECTIVE PROJECT-ACTIVITY\\PF_Q3_BackEnd_E3_DELACRUZ_JEANROMUALD\\TodoApi\\TodoApi.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Jhirz\\Desktop\\ELECTIVE PROJECT-ACTIVITY\\PF_Q3_BackEnd_E3_DELACRUZ_JEANROMUALD\\TodoApi\\TodoApi.csproj": {
+    "C:\\Users\\Jhirz\\Desktop\\ELECTIVE PROJECT-ACTIVITY\\PF_Q3_BackEnd_E3_DELACRUZ_JEANROMUALD\\TodoApi\\TodoApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Jhirz\\Desktop\\ELECTIVE PROJECT-ACTIVITY\\PF_Q3_BackEnd_E3_DELACRUZ_JEANROMUALD\\TodoApi\\TodoApi.csproj",
+        "projectUniqueName": "C:\\Users\\Jhirz\\Desktop\\ELECTIVE PROJECT-ACTIVITY\\PF_Q3_BackEnd_E3_DELACRUZ_JEANROMUALD\\TodoApi\\TodoApi.csproj",
         "projectName": "TodoApi",
-        "projectPath": "c:\\Users\\Jhirz\\Desktop\\ELECTIVE PROJECT-ACTIVITY\\PF_Q3_BackEnd_E3_DELACRUZ_JEANROMUALD\\TodoApi\\TodoApi.csproj",
+        "projectPath": "C:\\Users\\Jhirz\\Desktop\\ELECTIVE PROJECT-ACTIVITY\\PF_Q3_BackEnd_E3_DELACRUZ_JEANROMUALD\\TodoApi\\TodoApi.csproj",
         "packagesPath": "C:\\Users\\Jhirz\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Jhirz\\Desktop\\ELECTIVE PROJECT-ACTIVITY\\PF_Q3_BackEnd_E3_DELACRUZ_JEANROMUALD\\TodoApi\\obj\\",
+        "outputPath": "C:\\Users\\Jhirz\\Desktop\\ELECTIVE PROJECT-ACTIVITY\\PF_Q3_BackEnd_E3_DELACRUZ_JEANROMUALD\\TodoApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "c:\\Users\\Jhirz\\Desktop\\ELECTIVE PROJECT-ACTIVITY\\PF_Q3_BackEnd_E3_DELACRUZ_JEANROMUALD\\TodoApi\\NuGet.Config",
+          "C:\\Users\\Jhirz\\Desktop\\ELECTIVE PROJECT-ACTIVITY\\PF_Q3_BackEnd_E3_DELACRUZ_JEANROMUALD\\TodoApi\\NuGet.Config",
           "C:\\Users\\Jhirz\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"

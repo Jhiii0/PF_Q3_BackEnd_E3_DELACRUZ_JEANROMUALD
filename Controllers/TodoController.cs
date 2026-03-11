@@ -52,4 +52,14 @@ public class TodoController : ControllerBase
         if (rowsAffected == 0) return NotFound();
         return NoContent();
     }
+
+    [HttpDelete("{id}")]
+    public async Task<IActionResult> DeleteTodoItem(int id)
+    {
+        int rowsAffected = await _context.Database.ExecuteSqlRawAsync(
+            "DELETE FROM Todos WHERE Id = {0}", id);
+
+        if (rowsAffected == 0) return NotFound();
+        return NoContent();
+    }
 }
